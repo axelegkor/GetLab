@@ -1,3 +1,5 @@
+## This project is part of the course IT2810 at NTNU
+
 # GetLab
 
 GetLab is a web application that presents information about a GitLab repository. The presented data is retrieved from the [GitLab REST API](https://docs.GitLab.com/ee/api/), based on the GitLab project ID and access token. The application only supports repositories using the https://gitlab.stud.idi.ntnu.no domain.
